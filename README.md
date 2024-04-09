@@ -5,6 +5,9 @@ Simple Auto clicker made in python.
 Version 1.0
 Author: samamsa7
 
+## Additional Instructions
+Once running the default global hotkey is set to CTRL + H. The program will prompt user for an input in seconds, this will determine the speed of the autoclicker and the time in between clicks.
+
 ## Libraries
 The following external Python libraries are used and will need to be installed:
 <code><pre>import pynput
