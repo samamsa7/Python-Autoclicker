@@ -2,7 +2,7 @@
 Simple Auto clicker made in python.
 
 ## About
-Version 1.0
+Version 1.0 
 <br>Author: samamsa7 
 
 ## Additional Instructions
